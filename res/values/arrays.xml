@@ -5,6 +5,10 @@
 -->
 <resources>
     <array name="wallpapers" translatable="false">
+        <item>wallpaper_25</item>
+        <item>wallpaper_24</item>
+        <item>wallpaper_23</item>
+        <item>wallpaper_22</item>
         <item>wallpaper_21</item>
         <item>wallpaper_20</item>
         <item>wallpaper_19</item>
@@ -26,6 +30,5 @@
         <item>wallpaper_3</item>
         <item>wallpaper_2</item>
         <item>wallpaper_1</item>
-        <item>wallpaper_0</item>
     </array>
 </resources>
